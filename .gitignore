@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Caches de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Build de paquetes
+build/
+dist/
+*.egg-info/
+
+# Configs de herramientas
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+logs/
+*.log
+
+# Archivos editor/IDE
+.vscode/
+.idea/
+
+# Archivos OS
+.DS_Store
+Thumbs.db
+
+# Datos generados o temporales
+staticfiles/
